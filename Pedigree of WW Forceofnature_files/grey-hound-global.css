@@ -1,0 +1,16 @@
+﻿/*create account page*/
+.create-new-account{
+    float: left;
+    margin: 0 0 0 115px;
+}
+
+.email-ins{
+    float: left;
+    margin: 30px 0 0 75px;
+    width: 400px;
+    text-align: left;
+}
+
+.show{
+ display:block !important;
+}
